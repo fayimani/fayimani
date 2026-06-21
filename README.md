@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Fay 👋
 
-<!--
-**fayimani/fayimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Creative Developer | Android Enthusiast | UI Designer
 
-Here are some ideas to get you started:
+I'm a developer with a creative mindset who enjoys building web and mobile applications, designing user-friendly interfaces, and creating digital experiences that feel both functional and beautiful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+🔹 Android Development (Kotlin & Jetpack Compose)  
+🔹 UI/UX Design  
+🔹 APIs & Backend Integration  
+🔹 Web Development  
+🔹 Creative Branding & Content Creation  
+
+## 🌱 Currently Learning
+
+- Advanced Jetpack Compose
+- Cloud Integrations
+- Mobile App Architecture
+- Modern UI Design
+- backend development
+
+## 💡 Personal Motto
+
+> Always learning. Always building. Always creating.
+> ## 🛠 Tech Stack
+
+### Mobile Development
+- Kotlin
+- Android Studio
+- Jetpack Compose
+
+### Backend & APIs
+- Firebase
+- Cloudinary
+
+### Design & Creative Tools
+- Figma
+- Canva
+- Adobe Express
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+- kotlin
+
+### E-commerce & Digital Design
+- Pinterest Marketing
+- Redbubble Store Design
+- Zazzle Product Design
+- SEO Optimization
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Android Studio
